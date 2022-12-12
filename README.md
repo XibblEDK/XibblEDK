@@ -17,14 +17,14 @@
 
 - 💬 Ask me about **C#, LSPDFR API, GTA 5 Natives**
 
-- 📫 How to reach me **officerjaredlspdfr@gmail.com**
+- 📫 How to reach me **officerjaredlspdfr@gmail.com, XibblE#1159**
 
 - ⚡ Fun fact **I like to open microwaves**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/xibbleunknown" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xibbleunknown" height="30" width="40" /></a>
-<a href="https://discord.gg/XibblE#1159" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="XibblE#1159" height="30" width="40" /></a>
+<a href="https://discord.gg/DN6hu49pSW" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="DN6hu49pSW" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
