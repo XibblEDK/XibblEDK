@@ -1,3 +1,5 @@
+https://discord.com/users/718802384029089824
+
 <h1 align="center">Hi 👋, I'm Adam</h1>
 <h3 align="center">A passionate developer from Denmark</h3>
 
