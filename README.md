@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
 <h3 align="center">A passionate developer from Denmark</h3>
-https://discord.c99.nl/widget/theme-1/718802384029089824.png
+
 <img height="80px" src="https://discord.c99.nl/widget/theme-1/718802384029089824.png" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xibbledk&label=Profile%20views&color=0e75b6&style=flat" alt="xibbledk" /> </p>
